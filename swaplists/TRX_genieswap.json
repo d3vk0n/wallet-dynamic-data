@@ -186,6 +186,31 @@
       "logoURI": "https://static.tronscan.org/production/upload/logo/new/HTX.png"
     }
   ],
-  "top": [],
+  "top": [
+    {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "Tether USD",
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
+    },
+    {
+      "symbol": "USDC",
+      "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "USD Coin",
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+    },
+    {
+      "symbol": "SUN",
+      "address": "TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S",
+      "chainId": 1,
+      "decimals": 18,
+      "name": "SUN",
+      "logoURI": "https://static.tronscan.org/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
+    }
+  ],
   "trending": []
 }
