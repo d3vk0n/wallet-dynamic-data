@@ -2,6 +2,14 @@
   "name": "SunSwap / Genieswap Default List",
   "all": [
     {
+      "symbol": "TRX",
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "chainId": 1,
+      "decimals": 6,
+      "name": "TRX",
+      "logoURI": "https://static.tronscan.org/production/logo/trx.png"
+    },
+    {
       "symbol": "USDC",
       "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
       "chainId": 1,
