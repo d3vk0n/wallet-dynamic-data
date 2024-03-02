@@ -1,0 +1,39 @@
+{
+  "all": [
+    {
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.io/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "type": "evm",
+      "price": 2484.91,
+      "cgId": "ethereum",
+      "rank": 2
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "decimals": 18,
+      "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "type": "evm",
+      "price": 10.91,
+      "cgId": "ethereum",
+      "rank": 2
+    },
+    {
+      "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+      "decimals": 18,
+      "logoURI": "https://sepolia.etherscan.io/images/main/empty-token.png",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "type": "evm",
+      "price": 2484.91,
+      "cgId": "ethereum",
+      "rank": 2
+    }
+  ],
+  "top": [],
+  "trending": []
+}
