@@ -1,17 +1,6 @@
 {
   "all": [
     {
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/1094/thumb/tron-logo.png?1696502193",
-      "name": "TRON",
-      "symbol": "TRX",
-      "type": "evm",
-      "price": 0.113021,
-      "cgId": "tron",
-      "rank": 2
-    },
-    {
       "address": "0x3d2b66bc4f9d6388bd2d97b95b565be1686aefb3",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/30126/thumb/IMG_20230502_225617_622.png?1683260153",
