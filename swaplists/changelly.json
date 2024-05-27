@@ -10088,7 +10088,18 @@
     "fixedTime": 900000,
     "contractAddress": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
     "protocol": "TRC20",
-    "blockchain": "tron"
+    "blockchain": "tron",
+    "token": {
+      "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "name": "USDC",
+      "symbol": "USDC",
+      "type": "tron",
+      "price": 1.00,
+      "rank": 8,
+      "cgId": "usd-coin"
+    }
   },
   {
     "name": "USDCXLM",
