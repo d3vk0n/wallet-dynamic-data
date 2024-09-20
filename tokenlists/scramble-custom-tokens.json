@@ -1,13 +1,6 @@
 {
   "tokens": [
     {
-      "contract": "0x665F77fbA5975ab40Ce61c90F28007fb5b09D7B1",
-      "logoURI": "https://etherscan.io/token/images/genieswap_32.png",
-      "name": "GenieSwap",
-      "symbol": "GENIE",
-      "type": "evm"
-    },
-    {
       "contract": "0x44Ea1a5791f101476B7927fCaC8c46aFC3EBa0f8",
       "logoURI": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEzIyMibm5qLioqIiId7e3r///+goJ9UU1WwsK9tbWxRUFRXV1ZiZk51f0KDkjapwwutyAFudkahoaFqcEmSpibPDzvrAAAAFHRSTlMAT5bL6/8YqP+T////////////pMr/r6oAAAEnSURBVHgBhZMJFoMgDAXdYlM/mETp/a/aIDwfXR13M+yha+iHcSKaxqHvvjDfiE/oNr/H7ws4nDCW+2vxqYRbZZqbOCF8AJrf4uynU14dPo3J44y4xihODMFf4Q6m2j94CVGzbTMnBl7NVPwn7kcDC2NTU82CahH8qRt4yY3cgPzjTXBsBXYXCMn0m6CWQD6/zOVLH7EKIT20KAh9N0AsxwVAEZgZEMsIhm7E40BE0iGsKRPlAGM3sZX63M+CWgtPHblQKUKLMTWCfQrqwlQFe29CTXMTl50sw/TAr2E2EyXnREWpE8Whz1O9/ZrqDVQWS74vlgB7Xe7Vviz3Wpb7OmFqynFqUy4xSso1SctN0gZu0/o67a83zvXWc+adAlcC7U3xi+3/BAeUKsK02FDUAAAAAElFTkSuQmCC",
       "name": "EcoHunt",
